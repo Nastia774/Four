@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4.2", "Lesson4.1\Lesson4.2.csproj", "{26B85B93-8E2D-45BA-B2C3-0C636009FB29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4.3", "Lesson4.3\Lesson4.3.csproj", "{9B52A3DF-CCCE-4354-8440-CA8393893BFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4.add", "Lesson4.add\Lesson4.add.csproj", "{AB2EF30D-B17B-4426-86EC-A9A7CEF0622E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26B85B93-8E2D-45BA-B2C3-0C636009FB29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B85B93-8E2D-45BA-B2C3-0C636009FB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B85B93-8E2D-45BA-B2C3-0C636009FB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B85B93-8E2D-45BA-B2C3-0C636009FB29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B52A3DF-CCCE-4354-8440-CA8393893BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B52A3DF-CCCE-4354-8440-CA8393893BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B52A3DF-CCCE-4354-8440-CA8393893BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B52A3DF-CCCE-4354-8440-CA8393893BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB2EF30D-B17B-4426-86EC-A9A7CEF0622E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2EF30D-B17B-4426-86EC-A9A7CEF0622E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2EF30D-B17B-4426-86EC-A9A7CEF0622E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2EF30D-B17B-4426-86EC-A9A7CEF0622E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3190751-166A-4804-841D-F2B0D16366E2}
+	EndGlobalSection
+EndGlobal
